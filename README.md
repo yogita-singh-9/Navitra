@@ -39,7 +39,7 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yash-kasera/Navitra.git
+    git clone https://github.com/yogita-singh-9/Navitra.git
     cd Navitra/intelligent-travel-platform
     ```
 
